@@ -1,4 +1,4 @@
-"""reating a dictionary that contains
+"""creating a dictionary that contains
 the letters and their corresponding 
 morse code"""
 
